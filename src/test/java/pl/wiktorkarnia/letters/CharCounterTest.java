@@ -1,4 +1,4 @@
-package pl.wiktordziaodsz.letters;
+package pl.wiktorkarnia.letters;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

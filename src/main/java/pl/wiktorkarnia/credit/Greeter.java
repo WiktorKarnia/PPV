@@ -1,4 +1,4 @@
-package pl.wiktordziadosz.credit;
+package pl.wiktorkarnia.credit;
 
 public class Greeter {
     public String hello(String name) {

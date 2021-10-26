@@ -1,4 +1,4 @@
-package pl.wiktordziadosz.credit;
+package pl.wiktorkarnia.credit;
 
 public class App {
     public static void main (String[] args){

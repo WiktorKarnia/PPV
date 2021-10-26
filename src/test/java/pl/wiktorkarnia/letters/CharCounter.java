@@ -1,4 +1,4 @@
-package pl.wiktordziaodsz.letters;
+package pl.wiktorkarnia.letters;
 
 import java.util.function.Predicate;
 
